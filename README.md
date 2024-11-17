@@ -1,5 +1,7 @@
 # Vehicle Trajectory Prediction with Graph Attentive Tokenization and Transformer
 
+[GitHub Repository](https://github.com/Rohit-Chakraborty/Cloud-Project.git)
+
 ## Overview
 This project focuses on predicting vehicle trajectories using a combination of graph attention mechanisms and transformer models. The trajectories are modeled through a graph structure, where each vehicle is represented as a node defined by specific parameters, and the spatial relationships between vehicles are captured as edges. A transformer module enhances predictive accuracy by refining the trajectory representation.
 
@@ -34,4 +36,4 @@ A transformer model processes the graph structure, playing a crucial role in ref
 Install the required packages:
 
 ```bash
-pip install torch torch_geometric numpy pandas
+pip install torch torch_geometric numpy pandas scikit-learn
