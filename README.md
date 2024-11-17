@@ -36,4 +36,7 @@ A transformer model processes the graph structure, playing a crucial role in ref
 Install the required packages:
 
 ```bash
-pip install torch torch_geometric numpy pandas scikit-learn
+pip install torch torch_geometric
+pip install numpy
+pip install pandas
+pip install scikit-learn
